@@ -1,6 +1,6 @@
 ## Game-Pitch
 
-#I do not know yet what the name of this game will be 
+  # I do not know yet what the name of this game will be 
 
 •  Game idea  
 
