@@ -1,4 +1,4 @@
-  # I do not know yet what the name of this game will be 
+  # Impostore o dectective  
 
   ## Game pitch
 
